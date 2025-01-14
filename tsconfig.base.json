@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@tomaciello-ui/button": ["packages/button/src/index.ts"]
+      "@tomaciello-ui/button": ["packages/button/src/index.ts"],
+      "@tomaciello-ui/grid": ["packages/grid/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
