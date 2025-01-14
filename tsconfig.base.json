@@ -16,6 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@tomaciello-ui/button": ["packages/button/src/index.ts"],
+      "@tomaciello-ui/footer": ["packages/footer/src/index.ts"],
       "@tomaciello-ui/grid": ["packages/grid/src/index.ts"],
       "@tomaciello-ui/header": ["packages/header/src/index.ts"]
     }
