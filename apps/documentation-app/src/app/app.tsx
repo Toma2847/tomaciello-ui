@@ -7,7 +7,7 @@ import { Footer } from '@tomaciello-ui/footer';
 import { Form } from '@tomaciello-ui/form';
 import { Header } from '@tomaciello-ui/header';
 import { Grid } from '@tomaciello-ui/grid';
-import { Searchbar } from '@tomaciello-ui/searchbar';
+import { SearchBar } from '@tomaciello-ui/searchbar';
 
 
 export function App() {
@@ -18,7 +18,7 @@ export function App() {
       <Form/>
       <Header/>
       <Grid/>
-      <Searchbar/>
+      <SearchBar/>
     </div>
   );
 }

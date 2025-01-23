@@ -1,8 +1,8 @@
-import styles from './searchbar.module.css';
+import styles from './searchBar.module.css';
 
-export function Searchbar() {
+export function SearchBar() {
   return (
-<div className="flex rounded-md border-2 border-blue-500 overflow-hidden max-w-md mx-auto font-[sans-serif]">
+      <div className="flex rounded-md border-2 border-blue-500 overflow-hidden max-w-md mx-auto font-[sans-serif]">
       <input type="email" placeholder="Search Something..."
         className="w-full outline-none bg-white text-gray-600 text-sm px-4 py-3" />
       <button type='button' className="flex items-center justify-center bg-[#007bff] px-5">
@@ -12,8 +12,8 @@ export function Searchbar() {
           </path>
         </svg>
       </button>
-    </div>
+    </div>
   );
 }
 
-export default Searchbar;
+export default SearchBar;
