@@ -6,6 +6,7 @@ import NxWelcome from './nx-welcome';
 import { Footer } from '@tomaciello-ui/footer';
 import { Form } from '@tomaciello-ui/form';
 import { Header } from '@tomaciello-ui/header';
+import { Grid } from '@tomaciello-ui/grid';
 
 
 export function App() {
@@ -15,6 +16,7 @@ export function App() {
       <Footer/>
       <Form/>
       <Header/>
+      <Grid/>
     </div>
   );
 }
