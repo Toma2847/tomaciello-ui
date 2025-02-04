@@ -1,4 +1,3 @@
-import styles from './searchBar.module.css';
 
 export function SearchBar() {
   return (

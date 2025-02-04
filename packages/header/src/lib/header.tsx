@@ -1,4 +1,3 @@
-import styles from './header.module.css';
 import React, { useState } from 'react';
 
 export const Header = () => {
