@@ -3,11 +3,12 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "build":"nx build tomaciello-ui"
+    "build": "nx build tomaciello-ui"
   },
   "private": true,
   "devDependencies": {
     "@eslint/js": "^9.8.0",
+    "@nrwl/vite": "^19.8.4",
     "@nx/eslint": "20.4.0",
     "@nx/eslint-plugin": "20.4.0",
     "@nx/jest": "20.4.0",

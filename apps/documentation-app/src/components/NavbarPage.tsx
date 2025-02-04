@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 export function NavbarPage() {
   return (
-    <nav className="bg-gradient-to-r from-yellow-700 to-yellow-600 text-white py-4 px-6 shadow-md">
+    <nav className="bg-gradient-to-r from-purple-700 to-purple-600 text-white py-4 px-6 shadow-md">
       <div className="container mx-auto flex justify-between items-center">
         <Link to="/" className="text-2xl font-bold">Tomaciello-Ui</Link>
         <div className="space-x-6">

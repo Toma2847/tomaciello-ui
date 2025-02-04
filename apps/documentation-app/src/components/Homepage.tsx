@@ -7,7 +7,7 @@ export function HomePage() {
     { name: "Form", path: "/form", color: "bg-gradient-to-r from-red-600 to-red-500" },
     { name: "Grid", path: "/grid", color: "bg-gradient-to-r from-green-600 to-green-500" },
     { name: "SearchBar", path: "/searchbar", color: "bg-gradient-to-r from-purple-600 to-purple-500" },
-    { name: "Footer", path: "/footer", color: "bg-gradient-to-r from-indigo-600 to-indigo-500" }
+    { name: "Footer", path: "/footer", color: "bg-gradient-to-r from-teal-500 to-cyan-400" }
   ];
 
   return (
